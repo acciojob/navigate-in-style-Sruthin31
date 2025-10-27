@@ -4,7 +4,7 @@
 	padding:10px;
 	list-style:none;
 }
-.navbar ul{
+.navbar li{
 	margin-right:1rem;
 	display:inline;
 }
